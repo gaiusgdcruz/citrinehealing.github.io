@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+h2 {
+    color: #a6a6a6;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+
+}
